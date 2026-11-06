@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I m Marwan Ahmed Fermawy 👋
 
-<!--
-**AalDawood0/AalDawood0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🎓 About Me
+- 🎓 Student at Delta Technological University
+- 🏫 Faculty of Industrial & Energy Technology
+- 🚗 Department: Autotronics - 1st Year
+- 📍 El-Batanoun, Menoufia, Egypt
 
-Here are some ideas to get you started:
+> Marwan Ahmed Fermawy - First-year student, Industrial and Energy Technology, majoring in Autotronics, Delta Technological University. Eager to develop my skills and practical experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 My Focus
+- Autotronics & Automotive Systems
+- Learning Programming to enhance my technical skills
+- Open to internships & training opportunities
+
+### 📫 Contact
+- GitHub: github.com/AalDawood0
+
+> First year student, but serious about growth and learning! 🚀
